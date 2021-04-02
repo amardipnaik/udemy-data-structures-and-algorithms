@@ -1,0 +1,17 @@
+1.Useful sites for direct coding.
+https://replit.com/
+https://glot.io/
+
+2.Learn More about Big O here.
+https://www.bigocheatsheet.com/
+https://www.quora.com/What-is-the-difference-between-big-oh-big-omega-and-big-theta-notations
+
+3.CV Preparation
+https://www.resume.com/
+https://www.resumemaker.online/
+https://thisresumedoesnotexist.com
+https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/
+
+4.Solved Java Codes for this lab:
+https://github.com/nimrod46/Data-Structures-and-Algorithms
+https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA
