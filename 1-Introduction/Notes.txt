@@ -15,3 +15,11 @@ https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume
 4.Solved Java Codes for this lab:
 https://github.com/nimrod46/Data-Structures-and-Algorithms
 https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA
+
+5.Google Interview
+https://www.youtube.com/watch?v=XKu_SEDAykw
+
+6.Data Structures Introduction
+https://en.wikipedia.org/wiki/List_of_data_structures
+https://www.youtube.com/watch?v=fpnE6UAfbtU
+http://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html
