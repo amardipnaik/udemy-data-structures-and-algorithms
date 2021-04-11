@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ReverseAString {
+public class StringReversal {
 
     public static void main(String args[]) {
         String giveString = "INDIA";
